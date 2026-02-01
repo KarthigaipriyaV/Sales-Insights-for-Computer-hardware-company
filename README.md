@@ -1,4 +1,3 @@
-![image alt](https://github.com/KarthigaipriyaV/Detect-potential-fraudulent-healthcare-providers-using-Python/blob/e8cd0fc50ee325d8da197b0399ecbd8ba3075d1c/medicare-fraud-nv.jpg)
 
 
 
