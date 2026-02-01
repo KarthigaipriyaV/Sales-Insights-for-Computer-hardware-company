@@ -1,4 +1,4 @@
-
+![image alt](https://github.com/KarthigaipriyaV/Sales-Insights-for-Computer-hardware-company/blob/6f40eb99576a1cc339d75107b6975efb8bb19cdd/Computer-Hardware.jpg)
 
 
 
